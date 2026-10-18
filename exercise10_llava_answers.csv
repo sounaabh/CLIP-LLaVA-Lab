@@ -1,0 +1,7 @@
+Image,Question,LLaVA Answer
+retrieval_images/football_21.jpg,What is happening in this image?,"In the image, two young boys are playing soccer on a grassy field. They are both running towards the soccer ball, which is located in the middle of the field. The boys are actively engaged in the game, showcasing their athletic abilities and competitive spirit."
+retrieval_images/football_21.jpg,How many people are visible?,There are two people visible in the image.
+retrieval_images/football_21.jpg,What objects can you identify?,"In the image, you can identify a soccer ball and a pair of soccer cleats. The soccer ball is located in the center of the scene, while the soccer cleats are positioned on the left side of the image. These objects are likely part of a soccer game or practice session."
+retrieval_images/football_21.jpg,Describe the image in detail.,"The image captures a group of young boys playing soccer on a grassy field. There are at least five boys actively participating in the game, with some of them running towards the soccer ball. The soccer ball is located in the center of the field, surrounded by the boys.
+
+In addition to the players, there are two benches visible in the scene, one on the left side and the other on the right side of the field. These benches may be used by the players when they are not actively engaged in the game."

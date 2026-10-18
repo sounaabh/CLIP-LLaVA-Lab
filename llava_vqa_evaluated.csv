@@ -1,0 +1,26 @@
+ID,Image,Question,LLaVA Answer,Human Evaluation,Evaluation Note
+1,Cat,What animal is shown?,The image shows a cat.,Correct,Answer agrees with the visible image content.
+2,Cat,How many animals are visible?,"There is only one animal visible in the image, which is a brown cat.",Correct,Answer agrees with the visible image content.
+3,Cat,What is the main color of its fur?,The main color of the cat's fur is brown.,Correct,Answer agrees with the visible image content.
+4,Cat,"Is the animal sitting, standing, or lying down?",The animal is sitting down.,Correct,Answer agrees with the visible image content.
+5,Cat,What color are its eyes?,The cat's eyes are yellow.,Incorrect,"The eyes appear orange/amber or light brown, but LLaVA describes them as yellow."
+6,Football,What sport is being played?,The sport being played is soccer.,Correct,Answer agrees with the visible image content.
+7,Football,How many foreground players are visible?,There are two foreground players visible in the image.,Correct,Answer agrees with the visible image content.
+8,Football,What colors are on the ball?,The ball has white and black colors.,Correct,Answer agrees with the visible image content.
+9,Football,What surface are the players playing on?,The players are playing on a grass field.,Correct,Answer agrees with the visible image content.
+10,Football,What color is the shirt of the player on the right?,The shirt of the player on the right is red.,Correct,Answer agrees with the visible image content.
+11,Airplane,What type of vehicle is shown?,"The image shows a large passenger jet, which is a type of airplane.",Correct,Answer agrees with the visible image content.
+12,Airplane,How many airplanes are visible?,There is only one airplane visible in the image.,Correct,Answer agrees with the visible image content.
+13,Airplane,Is the airplane airborne or on the ground?,"The airplane is airborne, flying through the sky.",Correct,Answer agrees with the visible image content.
+14,Airplane,What airline name is written on the airplane?,The airplane belongs to Royal Air Maroc.,Correct,Answer agrees with the visible image content.
+15,Airplane,What colors are visible on the airplane's tail?,"The airplane's tail features red, white, and green colors.",Correct,Answer agrees with the visible image content.
+16,Twin towers,How many main towers are shown?,There are two main towers shown in the image.,Correct,Answer agrees with the visible image content.
+17,Twin towers,What structure connects the two towers?,"The two towers are connected by a bridge or a walkway, which is a common feature in many tall buildings. This bridge or walkway allows people to move between the towers safely and conveniently. In the image, the two towers are lit up, making the structure stand out against the dark sky.",Correct,Answer agrees with the visible image content.
+18,Twin towers,Are the two main towers approximately the same height?,"Yes, the two main towers of the building are approximately the same height.",Correct,Answer agrees with the visible image content.
+19,Twin towers,What color is the sky?,The sky is dark blue.,Correct,Answer agrees with the visible image content.
+20,Twin towers,Are the tops of the towers flat or pointed?,The tops of the towers are pointed.,Correct,Answer agrees with the visible image content.
+21,Hockey,What sport is being played?,The sport being played is ice hockey.,Correct,Answer agrees with the visible image content.
+22,Hockey,What surface are the players playing on?,"The players are playing on a frozen surface, which is likely an ice rink.",Correct,Answer agrees with the visible image content.
+23,Hockey,What equipment are the players holding?,The players are holding hockey sticks and wearing helmets for protection.,Correct,Answer agrees with the visible image content.
+24,Hockey,"How many players are visible on the ice, excluding people behind the boards?","There are four players visible on the ice, excluding people behind the boards.",Correct,Answer agrees with the visible image content.
+25,Hockey,What color is the puck?,The puck is black.,Correct,Answer agrees with the visible image content.

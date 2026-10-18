@@ -1,0 +1,10 @@
+# Original recorded session used torch 2.11.0+cu130 on Colab T4.
+# Let Colab supply a compatible CUDA-enabled torch/torchvision pair.
+torch
+torchvision
+transformers==5.18.0
+accelerate==1.15.0
+bitsandbytes==0.50.2
+pillow
+matplotlib
+pandas
